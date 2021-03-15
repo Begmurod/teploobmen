@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\Admin\source\repos\Teploobmen\Teploobmen\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\Admin\source\repos\Teploobmen\Teploobmen\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
